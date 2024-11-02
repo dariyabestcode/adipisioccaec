@@ -1,0 +1,6 @@
+/* Example of horizontal insetting in CSS */
+.content-view {
+    padding-left: 20px;   /* Inset from the left */
+    padding-right: 20px;  /* Inset from the right */
+    /* Additional styling properties */
+}
